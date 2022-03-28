@@ -4,19 +4,19 @@
     "url": "https://www.medicapanamericana.com",
     "icon": "https://favicons.githubusercontent.com/www.medicapanamericana.com",
     "slug": "emp-es",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2349,
-    "timeDay": 7192,
-    "timeWeek": 3680,
-    "timeMonth": 2525,
-    "timeYear": 2349,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2351,
+    "timeDay": 6006,
+    "timeWeek": 3557,
+    "timeMonth": 2522,
+    "timeYear": 2351,
     "dailyMinutesDown": {
-      "2022-03-28": 1
+      "2022-03-28": 7
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://www.medicapanamericana.com",
     "icon": "https://favicons.githubusercontent.com/www.medicapanamericana.com",
     "slug": "emp-us",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1083,
-    "timeDay": 1014,
-    "timeWeek": 1530,
-    "timeMonth": 1122,
-    "timeYear": 1083,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1152,
+    "timeDay": 2846,
+    "timeWeek": 1924,
+    "timeMonth": 1245,
+    "timeYear": 1152,
     "dailyMinutesDown": {
-      "2022-03-28": 0
+      "2022-03-28": 6
     }
   }
 ]
