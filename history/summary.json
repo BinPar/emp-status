@@ -4,10 +4,10 @@
     "url": "https://www.medicapanamericana.com",
     "icon": "https://favicons.githubusercontent.com/www.medicapanamericana.com",
     "slug": "emp-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2326,
@@ -15,17 +15,19 @@
     "timeWeek": 3403,
     "timeMonth": 2462,
     "timeYear": 2326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 2
+    }
   },
   {
     "name": "EMP - CO",
     "url": "https://www.medicapanamericana.com",
     "icon": "https://favicons.githubusercontent.com/www.medicapanamericana.com",
     "slug": "emp-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1126,
@@ -33,17 +35,19 @@
     "timeWeek": 1038,
     "timeMonth": 1125,
     "timeYear": 1126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 1
+    }
   },
   {
     "name": "EMP - MX",
     "url": "https://www.medicapanamericana.com",
     "icon": "https://favicons.githubusercontent.com/www.medicapanamericana.com",
     "slug": "emp-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 985,
@@ -51,17 +55,19 @@
     "timeWeek": 1197,
     "timeMonth": 1003,
     "timeYear": 985,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 1
+    }
   },
   {
     "name": "EMP - AR",
     "url": "https://www.medicapanamericana.com",
     "icon": "https://favicons.githubusercontent.com/www.medicapanamericana.com",
     "slug": "emp-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1049,
@@ -69,16 +75,18 @@
     "timeWeek": 1131,
     "timeMonth": 1123,
     "timeYear": 1049,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 1
+    }
   },
   {
     "name": "EMP - US",
     "url": "https://www.medicapanamericana.com",
     "icon": "https://favicons.githubusercontent.com/www.medicapanamericana.com",
     "slug": "emp-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +95,8 @@
     "timeWeek": 1709,
     "timeMonth": 1291,
     "timeYear": 1184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 0
+    }
   }
 ]
