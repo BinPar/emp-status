@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2308,
-    "timeDay": 1474,
-    "timeWeek": 2221,
-    "timeMonth": 2455,
-    "timeYear": 2308,
+    "time": 2307,
+    "timeDay": 2228,
+    "timeWeek": 1847,
+    "timeMonth": 2452,
+    "timeYear": 2307,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1147,
-    "timeDay": 1015,
-    "timeWeek": 1296,
-    "timeMonth": 1163,
-    "timeYear": 1147,
+    "time": 1157,
+    "timeDay": 1757,
+    "timeWeek": 1244,
+    "timeMonth": 1172,
+    "timeYear": 1157,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1102,
-    "timeDay": 964,
-    "timeWeek": 1890,
-    "timeMonth": 1223,
-    "timeYear": 1102,
+    "time": 1107,
+    "timeDay": 1421,
+    "timeWeek": 1084,
+    "timeMonth": 1234,
+    "timeYear": 1107,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1090,
-    "timeDay": 1055,
-    "timeWeek": 1367,
-    "timeMonth": 1132,
-    "timeYear": 1090,
+    "time": 1096,
+    "timeDay": 1464,
+    "timeWeek": 1210,
+    "timeMonth": 1146,
+    "timeYear": 1096,
     "dailyMinutesDown": {}
   },
   {
@@ -76,17 +76,19 @@
     "url": "https://www.medicapanamericana.com",
     "icon": "https://favicons.githubusercontent.com/www.medicapanamericana.com",
     "slug": "emp-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1251,
-    "timeDay": 908,
-    "timeWeek": 1711,
-    "timeMonth": 1474,
+    "timeDay": 0,
+    "timeWeek": 1052,
+    "timeMonth": 1491,
     "timeYear": 1251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-07": 0
+    }
   }
 ]
