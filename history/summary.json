@@ -76,19 +76,19 @@
     "url": "https://www.medicapanamericana.com",
     "icon": "https://favicons.githubusercontent.com/www.medicapanamericana.com",
     "slug": "emp-us",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1251,
-    "timeDay": 0,
-    "timeWeek": 1052,
-    "timeMonth": 1491,
-    "timeYear": 1251,
+    "time": 1306,
+    "timeDay": 4760,
+    "timeWeek": 1581,
+    "timeMonth": 1590,
+    "timeYear": 1306,
     "dailyMinutesDown": {
-      "2022-04-07": 0
+      "2022-04-07": 1
     }
   }
 ]
