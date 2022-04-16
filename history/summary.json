@@ -4,18 +4,20 @@
     "url": "https://www.medicapanamericana.com",
     "icon": "https://favicons.githubusercontent.com/www.medicapanamericana.com",
     "slug": "emp-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2244,
-    "timeDay": 1681,
-    "timeWeek": 1803,
-    "timeMonth": 2378,
-    "timeYear": 2244,
-    "dailyMinutesDown": {}
+    "time": 2227,
+    "timeDay": 1460,
+    "timeWeek": 1703,
+    "timeMonth": 2341,
+    "timeYear": 2227,
+    "dailyMinutesDown": {
+      "2022-04-16": 0
+    }
   },
   {
     "name": "EMP - CO",
