@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.medicapanamericana.com",
     "slug": "emp-es",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "99.78%",
-    "time": 2345,
-    "timeDay": 2002,
-    "timeWeek": 2275,
-    "timeMonth": 2460,
-    "timeYear": 2345,
+    "uptimeYear": "99.79%",
+    "time": 2343,
+    "timeDay": 2130,
+    "timeWeek": 2339,
+    "timeMonth": 2470,
+    "timeYear": 2343,
     "dailyMinutesDown": {
       "2022-04-21": 285
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/www.medicapanamericana.com",
     "slug": "emp-co",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "99.78%",
-    "time": 1157,
-    "timeDay": 982,
-    "timeWeek": 1066,
-    "timeMonth": 1154,
-    "timeYear": 1157,
+    "uptimeYear": "99.79%",
+    "time": 1158,
+    "timeDay": 1264,
+    "timeWeek": 1103,
+    "timeMonth": 1163,
+    "timeYear": 1158,
     "dailyMinutesDown": {
       "2022-04-21": 284
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.79%",
-    "time": 1104,
-    "timeDay": 944,
-    "timeWeek": 1006,
-    "timeMonth": 1081,
-    "timeYear": 1104,
+    "time": 1106,
+    "timeDay": 1353,
+    "timeWeek": 1062,
+    "timeMonth": 1094,
+    "timeYear": 1106,
     "dailyMinutesDown": {
       "2022-04-21": 283
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.79%",
-    "time": 1110,
-    "timeDay": 976,
-    "timeWeek": 1005,
-    "timeMonth": 1116,
-    "timeYear": 1110,
+    "time": 1111,
+    "timeDay": 1172,
+    "timeWeek": 1047,
+    "timeMonth": 1123,
+    "timeYear": 1111,
     "dailyMinutesDown": {
       "2022-04-21": 282
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.79%",
-    "time": 1361,
-    "timeDay": 2796,
-    "timeWeek": 1543,
-    "timeMonth": 1493,
-    "timeYear": 1361,
+    "time": 1367,
+    "timeDay": 1978,
+    "timeWeek": 1672,
+    "timeMonth": 1524,
+    "timeYear": 1367,
     "dailyMinutesDown": {
       "2022-04-21": 281
     }
