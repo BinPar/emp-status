@@ -4,19 +4,19 @@ repo: emp-status # The name of this repository
 
 sites:
   - name: EMP - ES
-    url: https://www.medicapanamericana.com
+    url: https://www.medicapanamericana.com/es
     headers:
       - "Cookie: filial=ES"
   - name: EMP - CO
-    url: https://www.medicapanamericana.com
+    url: https://www.medicapanamericana.com/co
     headers:
       - "Cookie: filial=CO"
   - name: EMP - MX
-    url: https://www.medicapanamericana.com
+    url: https://www.medicapanamericana.com/mx
     headers:
       - "Cookie: filial=MX"
   - name: EMP - AR
-    url: https://www.medicapanamericana.com
+    url: https://www.medicapanamericana.com/ar
     headers:
       - "Cookie: filial=AR"
   - name: EMP - US
