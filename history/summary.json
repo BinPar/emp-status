@@ -4,9 +4,9 @@
     "url": "https://www.medicapanamericana.com/es",
     "icon": "https://icons.duckduckgo.com/ip3/www.medicapanamericana.com.ico",
     "slug": "emp-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.91%",
@@ -16,6 +16,7 @@
     "timeMonth": 3579,
     "timeYear": 2580,
     "dailyMinutesDown": {
+      "2023-01-08": 0,
       "2022-12-15": 64,
       "2022-11-09": 16,
       "2022-10-24": 20,
@@ -38,7 +39,7 @@
     "time": 1416,
     "timeDay": 884,
     "timeWeek": 1116,
-    "timeMonth": 1631,
+    "timeMonth": 1625,
     "timeYear": 1416,
     "dailyMinutesDown": {
       "2022-12-15": 23,
