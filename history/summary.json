@@ -51,9 +51,9 @@
     "url": "https://www.medicapanamericana.com/mx",
     "icon": "https://icons.duckduckgo.com/ip3/www.medicapanamericana.com.ico",
     "slug": "emp-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -63,6 +63,7 @@
     "timeMonth": 1608,
     "timeYear": 1590,
     "dailyMinutesDown": {
+      "2023-03-01": 0,
       "2022-12-15": 23,
       "2022-05-31": 15,
       "2022-04-21": 283
