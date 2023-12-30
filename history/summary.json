@@ -99,9 +99,9 @@
     "url": "https://www.medicapanamericana.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.medicapanamericana.com.ico",
     "slug": "emp-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -110,6 +110,8 @@
     "timeWeek": 896,
     "timeMonth": 836,
     "timeYear": 1151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-30": 0
+    }
   }
 ]
