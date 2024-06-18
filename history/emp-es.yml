@@ -1,7 +1,7 @@
 url: https://www.medicapanamericana.com/es
-status: up
-code: 200
-responseTime: 8846
-lastUpdated: 2024-06-18T04:48:56.166Z
+status: down
+code: 503
+responseTime: 1078
+lastUpdated: 2024-06-18T05:14:01.839Z
 startTime: 2022-02-10T08:44:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
