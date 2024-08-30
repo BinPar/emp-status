@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.medicapanamericana.com.ico",
     "slug": "emp-es",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.56%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "97.76%",
-    "time": 2445,
-    "timeDay": 484,
-    "timeWeek": 545,
-    "timeMonth": 727,
-    "timeYear": 2578,
+    "time": 2444,
+    "timeDay": 656,
+    "timeWeek": 567,
+    "timeMonth": 725,
+    "timeYear": 2575,
     "dailyMinutesDown": {
       "2024-07-30": 79,
       "2024-07-29": 1440,
@@ -48,13 +48,13 @@
     "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.56%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "97.90%",
-    "time": 1403,
-    "timeDay": 34,
-    "timeWeek": 51,
-    "timeMonth": 124,
-    "timeYear": 1408,
+    "time": 1401,
+    "timeDay": 61,
+    "timeWeek": 52,
+    "timeMonth": 122,
+    "timeYear": 1406,
     "dailyMinutesDown": {
       "2024-07-30": 79,
       "2024-07-29": 1440,
@@ -67,8 +67,7 @@
       "2024-07-22": 436,
       "2024-03-12": 299,
       "2024-02-18": 71,
-      "2023-09-19": 42,
-      "2023-08-31": 27
+      "2023-09-19": 42
     }
   },
   {
@@ -80,13 +79,13 @@
     "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.56%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "97.90%",
-    "time": 1466,
-    "timeDay": 29,
+    "time": 1465,
+    "timeDay": 52,
     "timeWeek": 92,
-    "timeMonth": 110,
-    "timeYear": 1447,
+    "timeMonth": 108,
+    "timeYear": 1444,
     "dailyMinutesDown": {
       "2024-07-30": 79,
       "2024-07-29": 1440,
@@ -99,8 +98,7 @@
       "2024-07-22": 436,
       "2024-03-12": 298,
       "2024-02-18": 71,
-      "2023-09-19": 58,
-      "2023-08-31": 41
+      "2023-09-19": 58
     }
   },
   {
@@ -112,13 +110,13 @@
     "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.56%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "97.80%",
-    "time": 1805,
-    "timeDay": 52,
-    "timeWeek": 74,
+    "time": 1802,
+    "timeDay": 54,
+    "timeWeek": 68,
     "timeMonth": 80,
-    "timeYear": 1921,
+    "timeYear": 1918,
     "dailyMinutesDown": {
       "2024-07-30": 79,
       "2024-07-29": 1440,
@@ -137,8 +135,7 @@
       "2024-02-18": 176,
       "2024-02-07": 154,
       "2023-11-19": 34,
-      "2023-09-19": 42,
-      "2023-08-31": 33
+      "2023-09-19": 42
     }
   },
   {
@@ -152,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.76%",
-    "time": 1023,
-    "timeDay": 98,
-    "timeWeek": 90,
-    "timeMonth": 132,
-    "timeYear": 1034,
+    "time": 1022,
+    "timeDay": 240,
+    "timeWeek": 113,
+    "timeMonth": 135,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2024-07-30": 872,
       "2024-06-18": 20,
